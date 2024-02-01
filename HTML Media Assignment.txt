@@ -19,6 +19,8 @@ A simple example of HTML is :
 </body>
 </html>
 
+Output:
+
 Physics Wallah ( <title> tag is used to add title of that HTML page which appears at the top of the browser window. )
 HTML Media Assignment ( <h1> tag describes the first level heading of the webpage. )
 Payel Jana ( <p> tag describes the paragraph of the webpage. )
